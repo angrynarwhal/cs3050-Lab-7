@@ -20,4 +20,3 @@ Submission:
 - `problem5_aug_data_struct/main.c`: Compute MST of an almost-tree (|V| = |E|)*
 - `problem5_red_black/main.c`: Compute Bottleneck Spanning Tree*
 
-**Solutions should be zipped up and submitted via canvas by 11:50pm on Saturay, May 17th.  
